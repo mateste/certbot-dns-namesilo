@@ -1,4 +1,4 @@
-python-certbot-dns-namesilo (0.1.0-1) UNRELEASED; urgency=low
+python-certbot-dns-namesilo (0.1.0-1) unstable; urgency=low
 
   * Initial release.
 

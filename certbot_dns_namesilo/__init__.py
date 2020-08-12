@@ -7,14 +7,14 @@ subsequently removing, TXT records using the Namesilo API.
 Named Arguments
 ---------------
 
-========================================  =====================================
-``--dns-namesilo-credentials``            Namesilo credentials_ INI file.
-                                          (Required)
-``--dns-namesilo-propagation-seconds``    The number of seconds to wait for DNS
-                                          to propagate before asking the ACME
-                                          server to verify the DNS record.
-                                          (Default: 1500)
-========================================  =====================================
+=============================================================== =====================================
+``--certbot-dns-namesilo:dns-namesilo-credentials``             Namesilo credentials_ INI file.
+                                                                (Required)
+``--certbot-dns-namesilo:dns-namesilo-propagation-seconds``     The number of seconds to wait for DNS
+                                                                to propagate before asking the ACME
+                                                                server to verify the DNS record.
+                                                                (Default: 1800)
+=============================================================== =====================================
 
 
 Credentials

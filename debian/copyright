@@ -2,7 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: certbot-dns-namesilo
 
 Files: *
-Copyright: 2020, Mateusz Stępień
+Copyright: 2015, Electronic Frontier Foundation and others, Mateusz Stępień
 License: Apache-2.0
 
 License: Apache-2.0
