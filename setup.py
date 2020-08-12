@@ -5,7 +5,7 @@ from setuptools import find_packages
 from setuptools import setup
 from setuptools.command.test import test as TestCommand
 
-version = '0.1.0'
+version = '0.1.1'
 
 # Remember to update local-oldest-requirements.txt when changing the minimum
 # acme/certbot version.
@@ -47,9 +47,9 @@ setup(
     name='certbot-dns-namesilo',
     version=version,
     description="Namesilo DNS Authenticator plugin for Certbot",
-    url='https://github.com/certbot/certbot',
-    author="Certbot Project",
-    author_email='client-dev@letsencrypt.org',
+    url='https://github.com/mateste/certbot-dns-namesilo',
+    author="Mateusz Stępień",
+    author_email='mateusz@argc.pl',
     license='Apache License 2.0',
     python_requires='>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*',
     classifiers=[
