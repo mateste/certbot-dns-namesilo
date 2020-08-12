@@ -1,0 +1,5 @@
+python-certbot-dns-namesilo (0.1.0-1) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Mateusz Stępień <mateusz@argc.pl>  Wed, 12 Aug 2020 08:56:00 +0200
